@@ -1,0 +1,44 @@
+﻿<Window x:Class="CollegeMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="College Map"
+        Height="650"
+        Width="1000">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхня панель -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+
+            <TextBlock Text="Я зараз біля:"
+                       VerticalAlignment="Center"
+                       Margin="0,0,5,0"/>
+
+            <ComboBox x:Name="StartPointCombo"
+                      Width="180"
+                      Margin="0,0,20,0"/>
+
+            <TextBlock Text="Хочу знайти:"
+                       VerticalAlignment="Center"
+                       Margin="0,0,5,0"/>
+
+            <TextBox x:Name="RoomTextBox"
+                     Width="120"
+                     Margin="0,0,20,0"/>
+
+            <Button Content="Прокласти маршрут"
+                    Width="180"
+                    Click="Search_Click"/>
+        </StackPanel>
+        <Canvas x:Name="MapCanvas" Grid.Row="1">
+            <Image x:Name="FloorImage"
+                   Stretch="None"/>
+
+        </Canvas>
+
+    </Grid>
+</Window>

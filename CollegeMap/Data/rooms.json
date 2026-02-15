@@ -1,0 +1,51 @@
+[{ "Number": "300", "Floor": 1, "Map": "Assets/floor1.png", "X": 64, "Y": 202, "Type": "Room" },
+{ "Number": "301", "Floor": 1, "Map": "Assets/floor1.png", "X": 64, "Y": 92, "Type": "Room" },
+{ "Number": "302", "Floor": 1, "Map": "Assets/floor1.png", "X": 183, "Y": 202, "Type": "Room" },
+{ "Number": "303", "Floor": 1, "Map": "Assets/floor1.png", "X": 170, "Y": 92, "Type": "Room" },
+{ "Number": "304", "Floor": 1, "Map": "Assets/floor1.png", "X": 295, "Y": 202, "Type": "Room" },
+{ "Number": "305", "Floor": 1, "Map": "Assets/floor1.png", "X": 305, "Y": 92, "Type": "Room" },
+{ "Number": "307", "Floor": 1, "Map": "Assets/floor1.png", "X": 415, "Y": 92, "Type": "Room" },
+{ "Number": "308", "Floor": 1, "Map": "Assets/floor1.png", "X": 575, "Y": 202, "Type": "Room" },
+{ "Number": "309", "Floor": 1, "Map": "Assets/floor1.png", "X": 545, "Y": 92, "Type": "Room" },
+{ "Number": "310", "Floor": 1, "Map": "Assets/floor1.png", "X": 685, "Y": 202, "Type": "Room" },
+  
+
+{ "Number": "312", "Floor": 2, "Map": "Assets/floor2.png", "X": 64, "Y": 202, "Type": "Room" },
+{ "Number": "314", "Floor": 2, "Map": "Assets/floor2.png", "X": 185, "Y": 202, "Type": "Room" },
+{ "Number": "316", "Floor": 2, "Map": "Assets/floor2.png", "X": 295, "Y": 202, "Type": "Room" },
+{ "Number": "318", "Floor": 2, "Map": "Assets/floor2.png", "X": 435, "Y": 202, "Type": "Room" },
+{ "Number": "320", "Floor": 2, "Map": "Assets/floor2.png", "X": 525, "Y": 202, "Type": "Room" },
+{ "Number": "322", "Floor": 2, "Map": "Assets/floor2.png", "X": 695, "Y": 202, "Type": "Room" },
+{ "Number": "324", "Floor": 2, "Map": "Assets/floor2.png", "X": 830, "Y": 202, "Type": "Room" },
+
+{ "Number": "319", "Floor": 2, "Map": "Assets/floor2.png", "X": 64, "Y": 92, "Type": "Room" },
+{ "Number": "321", "Floor": 2, "Map": "Assets/floor2.png", "X": 170, "Y": 92, "Type": "Room" },
+{ "Number": "323", "Floor": 2, "Map": "Assets/floor2.png", "X": 280, "Y": 92, "Type": "Room" },
+{ "Number": "325", "Floor": 2, "Map": "Assets/floor2.png", "X": 415, "Y": 92, "Type": "Room" },
+{ "Number": "327", "Floor": 2, "Map": "Assets/floor2.png", "X": 555, "Y": 92, "Type": "Room" },
+{ "Number": "329", "Floor": 2, "Map": "Assets/floor2.png", "X": 710, "Y": 92, "Type": "Room" },
+{ "Number": "331", "Floor": 2, "Map": "Assets/floor2.png", "X": 830, "Y": 92, "Type": "Room" },
+
+
+
+{ "Number": "326", "Floor": 3, "Map": "Assets/floor3.png", "X": 64, "Y": 202, "Type": "Room" },
+{ "Number": "328", "Floor": 3, "Map": "Assets/floor3.png", "X": 190, "Y": 202, "Type": "Room" },
+{ "Number": "330", "Floor": 3, "Map": "Assets/floor3.png", "X": 230, "Y": 202, "Type": "Room" },
+{ "Number": "332", "Floor": 3, "Map": "Assets/floor3.png", "X": 305, "Y": 202, "Type": "Room" },
+{ "Number": "334", "Floor": 3, "Map": "Assets/floor3.png", "X": 343, "Y": 202, "Type": "Room" },
+{ "Number": "336", "Floor": 3, "Map": "Assets/floor3.png", "X": 435, "Y": 202, "Type": "Room" },
+{ "Number": "338", "Floor": 3, "Map": "Assets/floor3.png", "X": 520, "Y": 202, "Type": "Room" },
+{ "Number": "340", "Floor": 3, "Map": "Assets/floor3.png", "X": 615, "Y": 202, "Type": "Room" },
+{ "Number": "342", "Floor": 3, "Map": "Assets/floor3.png", "X": 830, "Y": 202, "Type": "Room" },
+
+{ "Number": "333", "Floor": 3, "Map": "Assets/floor3.png", "X": 64, "Y": 92, "Type": "Room" },
+{ "Number": "335", "Floor": 3, "Map": "Assets/floor3.png", "X": 170, "Y": 92, "Type": "Room" },
+{ "Number": "337", "Floor": 3, "Map": "Assets/floor3.png", "X": 275, "Y": 92, "Type": "Room" },
+{ "Number": "339", "Floor": 3, "Map": "Assets/floor3.png", "X": 325, "Y": 92, "Type": "Room" },
+{ "Number": "341", "Floor": 3, "Map": "Assets/floor3.png", "X": 434, "Y": 92, "Type": "Room" },
+{ "Number": "343", "Floor": 3, "Map": "Assets/floor3.png", "X": 510, "Y": 92, "Type": "Room" },
+{ "Number": "345", "Floor": 3, "Map": "Assets/floor3.png", "X": 563, "Y": 92, "Type": "Room" },
+{ "Number": "347", "Floor": 3, "Map": "Assets/floor3.png", "X": 690, "Y": 92, "Type": "Room" },
+{ "Number": "349", "Floor": 3, "Map": "Assets/floor3.png", "X": 830, "Y": 92, "Type": "Room" }
+  
+]
