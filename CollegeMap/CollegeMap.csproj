@@ -26,17 +26,12 @@
       </Content>
       <None Remove="Assets\floor3.png" />
       <None Remove="web\assets\floor1.png" />
-      <Content Include="web\assets\floor1.png">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="web\assets\floor2.png" />
-      <Content Include="web\assets\floor2.png">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="web\assets\floor3.png" />
-      <Content Include="web\assets\floor3.png">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="assets2\" />
     </ItemGroup>
 
 </Project>
