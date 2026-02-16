@@ -30,8 +30,4 @@
       <None Remove="web\assets\floor3.png" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="assets2\" />
-    </ItemGroup>
-
 </Project>
